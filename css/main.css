@@ -2,7 +2,11 @@
 {
   margin: 0;
   padding 0;
-  background-color: black;
+}
+
+body {
+  background-color: yellow;
+  margin-left: 50px;
 }
 
 h1
@@ -12,7 +16,7 @@ h1
 
 p
 {
-  color: green;
+  color: black;
 }
 
 /* part of the new feature branch */

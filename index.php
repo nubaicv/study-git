@@ -9,5 +9,6 @@
     <p>The beginning of a beautiful project about studing Git</p>
     <p>A new text as part of development</p>
     <div class="class-of-new-feature"></div>
+    <p>A new text as part of the dev branch going on. Thanks...</p>
   </body>
 </html>
