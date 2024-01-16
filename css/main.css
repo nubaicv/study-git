@@ -14,3 +14,10 @@ p
 {
   color: green;
 }
+
+/* part of the new feature branch */
+.class-of-new-feature {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
